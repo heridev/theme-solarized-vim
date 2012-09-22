@@ -21,7 +21,7 @@ and we need to add this lines at the end of the file
 
     syntax enable
     set background=dark
-    olorscheme solarized
+    colorscheme solarized
 
 After that we need to close and reopen our Editor Vim if we have opened
 Vim
