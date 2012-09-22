@@ -7,7 +7,7 @@ If you can use the color or style for theme solarized you will need to
 
 After that we need to move inside the directory called solarized with the next command
 
-    $ cd solarized/vim-colors-solarized/colors
+    $ cd solarized
 
 And now we need to move the file called solarized.vim in the vim colors directory we can do this with the next code
 
