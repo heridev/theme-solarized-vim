@@ -26,8 +26,8 @@ and we need to add this lines at the end of the file
 After that we need to close and reopen our Editor Vim if we have opened
 Vim
 
-If you have problems at the moment to install the theme you can visit my
-complete post in the next url
+####If you have problems at the moment to install the theme you can visit my
+####complete post in the next url
 http://heridev.micompu.com.mx/generales/how-to-install-an-incredible-theme-solarized-for-vim-gvim-or-mvim/
 
 
